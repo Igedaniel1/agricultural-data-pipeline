@@ -1,6 +1,6 @@
 # End-to-End Agricultural Data Pipeline
 
-A production-style data engineering project simulating Babban Gona's agricultural operations.
+A production-style data engineering project simulating agricultural operations.
 
 ---
 
