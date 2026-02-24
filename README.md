@@ -8,7 +8,6 @@ A production-style data engineering project simulating agricultural operations.
 
 This project builds a complete ETL pipeline that:
 
-- Generates synthetic agricultural data
 - Cleans and transforms raw CSV files
 - Loads structured data into PostgreSQL
 - Designs a Star Schema data warehouse
